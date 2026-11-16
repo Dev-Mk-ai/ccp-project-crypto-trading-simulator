@@ -1,0 +1,29 @@
+# Compiled objects and libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+
+# Executables
+*.exe
+*.out
+app
+
+# Build folders
+build/
+bin/
+
+# Debug files
+*.dSYM/
+*.pdb
+core
+
+# Editor / IDE folders
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
