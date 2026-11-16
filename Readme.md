@@ -2,8 +2,6 @@
 
 A C-based cryptocurrency trading simulator built as a **Programming Fundamentals (CT-175) CCA project**. Users can create accounts, manage wallets, buy and sell cryptocurrencies, track transactions, and watch changing market prices. A web-based GUI connects to the C backend through a small server written in C.
 
-![Crypto Simulator screenshot](screenshots/main-menu.png)
-
 ## Group Members (Group No. 10)
 
 | Name | Roll No. |
